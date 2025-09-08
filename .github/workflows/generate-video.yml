@@ -36,4 +36,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: final-video # The name of the downloadable file collection
-          path: blood_types_video.mp4 # The name of the file to upload
+          path: output_video.mp4 # The name of the file to upload
