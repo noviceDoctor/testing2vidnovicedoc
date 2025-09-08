@@ -10,7 +10,7 @@ output_filename = "blood_types_video.mp4"
 
 # --- MODIFICATION START ---
 # Text parameters - We split the text into lines using "\n"
-text = "blood types are these\na, b, o"
+text = "Constant information: Unlike current affairs, static topics like historical facts, geographical locations, and scientific principles remain the same, requiring consistent revision rather than tracking constant changes. "
 font = cv2.FONT_HERSHEY_SIMPLEX
 font_scale = 3
 color = (255, 255, 255)  # white
